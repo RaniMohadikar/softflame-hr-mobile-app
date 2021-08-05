@@ -1,0 +1,7 @@
+{
+  "name": "softflame-hr",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
